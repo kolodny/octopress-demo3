@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://kolodny.github.io/octopress-demo3/sitemap.xml 
